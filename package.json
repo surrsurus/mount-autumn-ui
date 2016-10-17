@@ -2,14 +2,14 @@
   "name": "mount-autumn-ui",
   "theme": "ui",
   "version": "0.1.0",
-  "description": "Autumnal theme for Atom",
+  "description": "Autumnal theme for Atom based on One Dark and Pumpkin Syntax",
   "keywords": [
     "dark",
     "autumn",
     "ui"
   ],
   "license": "GPL 3",
-  "repository": "https://github.com/atom/one-dark-ui",
+  "repository": "https://github.com/surrsurus/mount-autumn-ui",
   "main": "lib/main",
   "engines": {
     "atom": ">0.40.0"

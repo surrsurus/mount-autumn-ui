@@ -1,2 +1,1 @@
-# mount-autumn-ui
-Atom UI theme based on One Dark and autumn colors
+All packages in this directory will be automatically loaded
