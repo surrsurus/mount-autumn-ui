@@ -1,1 +1,3 @@
-All packages in this directory will be automatically loaded
+# mount-autumn-ui
+
+An Atom theme based on One Dark and Pumpkin Syntax
